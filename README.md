@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avinash-saraf
-- 👀 I’m interested in mobile app development and machine learning.
+- 👀 I’m interested in mobile app development for android and iOS.
 
 <!---
 avinash-saraf/avinash-saraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
